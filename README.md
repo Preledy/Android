@@ -9,3 +9,9 @@ http://m.bumimi66.com/
 
 3.飞极速动漫
 http://m.feijisu5.com/
+
+4.油猴脚本(先安装油猴)
+https://greasyfork.org/zh-CN/scripts
+
+5.android博客
+http://gityuan.com/tags/#android
